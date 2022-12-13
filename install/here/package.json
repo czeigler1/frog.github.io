@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-email-validation": "^1.0.4"
+  }
+}
